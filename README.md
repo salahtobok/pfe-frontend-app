@@ -1,2 +1,1 @@
-# pfe_frontend_app
-Frontend application of PFE
+<h2>Multi Vendor FrontEnd Application</h2>
